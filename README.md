@@ -1,6 +1,6 @@
 # AWS CDK Example
 
-A simple CDK example that is a companion to [this](https://douglaspicolotto.com/2019/10/11/o-que-e-o-aws-cdk-e-para-que-serve/ blog post. 
+A simple CDK example that is a companion to [this](https://douglaspicolotto.com/2019/10/11/o-que-e-o-aws-cdk-e-para-que-serve/) blog post. 
 
 ## CDK API Reference
 
